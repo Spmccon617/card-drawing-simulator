@@ -32,7 +32,7 @@ while True:
         print('King of spades')
     elif card == 14:
         print('Ace of diamonds')
-        elif card == 15:
+    elif card == 15:
         print('2 of diamonds')
     elif card == 16:
         print('3 of diamonds')
