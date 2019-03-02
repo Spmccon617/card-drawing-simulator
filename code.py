@@ -114,10 +114,3 @@ while True:
     else:
         print('Nevermind')
         break
-    
-    drawAgain = input('Do you want to draw again?')
-    
-    if drawAgain is 'yes':
-        print(card)
-    else:
-        break
